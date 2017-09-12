@@ -1,0 +1,18 @@
+<html>
+
+	<head>
+		<title>
+			Online House Tour-Doorway
+		</title>
+	</head>
+
+	<body>
+  <h1> Doorway </h1>
+	<img src="House1.jpg" width="50%" height="50%" />
+	<img src="House2.jpg" width="50%" height="50" />
+	<p> There is the shoe cabinet and a hanger for some coats and jackets.<br />
+	Immediately the path splits into two. <a href= "LINK TO BEDROOM"> The bedroom </a> or
+	<a href= "LINK TO LIVING ROOM"> living room. </a></p>
+  </body>
+  
+</html>
