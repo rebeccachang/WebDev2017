@@ -1,0 +1,17 @@
+<html>
+	<head>
+		<title>
+			Online House Tour-Living room
+		</title>
+	</head>
+
+	<body>
+  <h1> The Living Room </h1>
+	<img src="House4.jpg" width="50%" height="50%" />
+	<img src="House5.jpg" width="50%" height="50%" />
+	<p> This is the living room and kitchen since they're connected. The house is very small. My grandmother apologizes for the mess. There are blankets because my grandparents sleep in the living room, and I sleep in the bedroom when I am in New York.<br />
+	<a href= "LINK TO DOORWAY"> Go back to doorway </a> or
+	<a href= "LINK TO BATHROOM"> Go to bathroom </a></p>
+  
+  </body>
+  </html>
